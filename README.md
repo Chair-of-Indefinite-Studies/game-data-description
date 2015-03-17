@@ -39,6 +39,10 @@ Sprite maps are a combination of two files
         {
           "layers": [
             {
+              "objects": [
+                { "x": 37, "y": 51, "spritemap": "trees.json", "key": "Oak Tree Foliage" },
+                { "x": 37, "y": 200, "spritemap": "clams.json", "key": "mossy heap of clams" }
+              ]
             }
           ]
         }
