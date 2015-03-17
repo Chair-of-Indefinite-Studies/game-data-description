@@ -2,10 +2,11 @@
 
 Description of the data formats used to describe an entire game.
 
-Example
+Formats
 -------
 
-The json below is an example of the description of a game.
+Below are the various formats used to describe a game.
+
 
 ```json
 {
@@ -23,3 +24,4 @@ The json below is an example of the description of a game.
   ]
 }
 ```
+
