@@ -22,9 +22,9 @@ Sprite maps are a combination of two files
     "width": 640, "height": 480
   },
   "sprites": {
-    "Oak Tree Foliage": { x: 0, y: 0, width: 100, height: 100 },
-    "Oak Tree Stem": { x: 40, y: 100, width: 20, height: 80 },
-    "Oak Tree Roots": { x: 20, y: 180, width: 60, height: 20 }
+    "Oak Tree Foliage": { "x": 0, "y": 0, "width": 100, "height": 100 },
+    "Oak Tree Stem": { "x": 40, "y": 100, "width": 20, "height": 80 },
+    "Oak Tree Roots": { "x": 20, "y": 180, "width": 60, "height": 20 }
   }
 }
 ```
