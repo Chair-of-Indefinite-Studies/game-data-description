@@ -12,7 +12,12 @@ The json below is an example of the description of a game.
   "levels": [
     {
       "sections": [
-        "layers": []
+        {
+          "layers": [
+            {
+            }
+          ]
+        }
       ]
     }
   ]
