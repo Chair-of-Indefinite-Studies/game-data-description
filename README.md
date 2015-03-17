@@ -1,11 +1,11 @@
-# Level Data Description
+# Game Data Description
 
-Description of the data format to describe levels.
+Description of the data formats used to describe an entire game.
 
 Example
 -------
 
-The json below is an example of the description of a level.
+The json below is an example of the description of a game.
 
 ```json
 {
