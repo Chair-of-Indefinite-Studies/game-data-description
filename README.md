@@ -11,8 +11,8 @@ Below are the various formats used to describe a game.
 
 Sprite maps are a combination of two files
 
-1. An image file, e.g. `a.png`.
-2. Corresponding meta-data, e.g. `a.json`
+1. An image file, e.g. `trees.png`.
+2. Corresponding meta-data, e.g. `trees.json`
 
 
 ```json
