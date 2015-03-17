@@ -7,6 +7,22 @@ Formats
 
 Below are the various formats used to describe a game.
 
+### Sprite
+
+As detailed in [sprite-exporter][], we will store sprites as a [JSON][json] file with the following format
+
+```json
+{
+  "columns": 15,
+  "rows": 10,
+  "palette": ["rgba(0,0,0,1)", "rgba(255,0,0,1)"],
+  "pixels": [
+    [[0, 0], [1, 0], [2, 0]],
+    [[12, 9], [13, 9], [14, 9]]
+  ]
+}
+```
+
 ### Sprite map
 
 Sprite maps are a combination of two files
@@ -52,3 +68,4 @@ Sprite maps are a combination of two files
 }
 ```
 
+[sprite-exporter]: https://github.com/Chair-of-Indefinite-Studies/sprite-exporter
