@@ -7,6 +7,7 @@ Formats
 
 Below are the various formats used to describe a game.
 
+### Game
 
 ```json
 {
